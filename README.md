@@ -1,2 +1,9 @@
-# Database-Design-Project
-Project done for CS306 Database Managment course in Sabanci University during Fall 2022.
+# CS306_Group16
+Sabanci University Database Systems Group Project
+
+Group Members:
+Berke Ceylan,
+İsmail Çakmak,
+Nisa Erdal,
+Salih Kaya,
+Yunus Topçu
